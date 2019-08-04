@@ -1,0 +1,52 @@
+.paging a {
+    background: #ddd none repeat scroll 0 0;
+    cursor: pointer;
+    float: left;
+    margin-right: 7px;
+    padding: 5px;
+}
+.paging a:hover {
+    background: #2d3a42 none repeat scroll 0 0;
+    color: #fff;
+    cursor: pointer;
+    float: left;
+    margin-right: 7px;
+    padding: 5px;
+}
+.paging {
+    border: 0 none !important;
+}
+.paging td {
+    border: 0 none !important;
+}
+.paging table {
+    border: 0 none !important;
+}
+.paging tr {
+    border: 0 none !important;
+}
+
+.paging table{ border:0px !important;}
+.paging tr{ border:0px !important;}
+
+.thispage {
+    background: #2d3a42 none repeat scroll 0 0;
+    color: #fff;
+    float: left;
+    margin-right: 7px;
+    padding: 5px;
+}
+.thispages {
+    background: #2d3a42 none repeat scroll 0 0;
+    color: #fff;
+    float: left;
+    margin-right: 7px;
+    padding: 5px;
+}
+a.nt {
+    background: #2d3a42 none repeat scroll 0 0 !important;
+    color: #fff;
+    float: left;
+    margin-right: 7px;
+    padding: 5px;
+}

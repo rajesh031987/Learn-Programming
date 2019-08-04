@@ -1,0 +1,42 @@
+.myModal button.close {
+    position: absolute;
+    right: 0;
+    padding: 17px;
+    top: 2px;
+    background: #1cdc1c;
+    color: #fff;
+    opacity: 1;
+}
+
+.myModal .modal-content {
+	border-radius: 0!important;
+}
+
+.myModal .btn {
+	border-radius: 0;
+}
+
+.myModal .submit {
+	background: #1CDC1C;
+	border:1px solid #fff;
+}
+
+.myModal .submit > i {
+	display:none;
+	margin-right: 10px;
+}
+
+.myModal .modal-footer {
+	text-align:left;
+}
+
+.myModal .form-group {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.myModal .form-control {
+    border-radius: 0;
+    border: 1px solid #999;
+	resize: none;
+}
